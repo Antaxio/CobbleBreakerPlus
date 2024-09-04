@@ -1,0 +1,6 @@
+name: CobbleBreakerPlus
+main: antaksio\CBP\Main
+version: 1.0.0
+author: antaksio
+description: ""
+api: 5.0.0
